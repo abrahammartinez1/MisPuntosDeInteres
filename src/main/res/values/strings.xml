@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mis puntos de interés</string>
+    <string name="title_activity_map_display">MapDisplayActivity</string>
+    <string name="title_activity_create_map">CreateMapActivity</string>
+</resources>
